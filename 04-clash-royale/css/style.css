@@ -1,0 +1,129 @@
+body {
+  background-color: #ACC942;
+  background-image: url("../img/bg.png");
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+.header {
+  background-image: linear-gradient(-180deg, #2558A9 0%, #172E4D 98%);
+  box-shadow: 0 2px 4px 0 rgba(29,34,11,0.20), 0 6px 20px 0 rgba(29,34,11,0.20);
+  padding: 12px;
+}
+
+.logo {
+  background-image: url("../img/logo.png");
+  background-repeat: no-repeat;
+  width: 180px;
+  height: 77px;
+  display: block;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: auto;
+}
+
+.content_section {
+  margin: 40px auto 0;
+  max-width: 325px;
+  position: relative;
+}
+
+.section_title {
+  font-size: 36px;
+  color: #375419;
+  font-weight: bold;
+  text-align: center;
+}
+
+.section_row {
+  overflow: hidden;
+  margin-top: 24px;
+}
+
+.section_element {
+  font-size: 20px;
+  font-weight: 500;
+  color: #375419;
+  text-decoration: none;
+  display: inline-block;
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.element_title {
+  margin-top: 8px;
+  display: block;
+}
+
+/*SUBPAGE*/
+
+.subpage .content_section {
+  background: #F3FBFF;
+  box-shadow: 0 8px 16px 0 rgba(85,100,32,0.50), 0 4px 8px 0 rgba(85,100,32,0.50);
+  border-radius: 7px;
+  margin-top: 100px;
+  padding: 0 24px 20px;
+}
+
+.section_image {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: -65px;
+  margin-bottom: -45px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.nav {
+  display: block;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  border-bottom: 1px solid #D2D8E9;
+  width: 60px;
+  height: 44px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  top: 0;
+}
+
+.prev {
+  background-image: url("../img/icon_prev.png");
+  left: 0;
+  border-radius: 7px 0 7px 0;
+  border-right: 1px solid #D2D8E9;
+}
+
+.next {
+  background-image: url("../img/icon_next.png");
+  right: 0;
+  border-radius: 0 7px 0 7px;
+  border-left: 1px solid #D2D8E9;
+}
