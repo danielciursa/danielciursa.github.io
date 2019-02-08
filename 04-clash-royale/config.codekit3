@@ -222,6 +222,94 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/stats\/boost-rage.png": {
+		"ft": 32768,
+		"iS": 3403,
+		"oA": 0,
+		"oAP": "\/img\/stats\/boost-rage.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/stats\/hit-speed.png": {
+		"ft": 32768,
+		"iS": 3048,
+		"oA": 0,
+		"oAP": "\/img\/stats\/hit-speed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/stats\/radius-1.png": {
+		"ft": 32768,
+		"iS": 3852,
+		"oA": 0,
+		"oAP": "\/img\/stats\/radius-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/stats\/radius.png": {
+		"ft": 32768,
+		"iS": 3852,
+		"oA": 0,
+		"oAP": "\/img\/stats\/radius.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/stats\/range.png": {
+		"ft": 32768,
+		"iS": 3632,
+		"oA": 0,
+		"oAP": "\/img\/stats\/range.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/stats\/speed.png": {
+		"ft": 32768,
+		"iS": 3699,
+		"oA": 0,
+		"oAP": "\/img\/stats\/speed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/stats\/stun-freeze.png": {
+		"ft": 32768,
+		"iS": 3998,
+		"oA": 0,
+		"oAP": "\/img\/stats\/stun-freeze.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/stats\/target.png": {
+		"ft": 32768,
+		"iS": 3318,
+		"oA": 0,
+		"oAP": "\/img\/stats\/target.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,

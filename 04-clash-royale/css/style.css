@@ -127,3 +127,36 @@ h2 {
   border-radius: 0 7px 0 7px;
   border-left: 1px solid #D2D8E9;
 }
+
+/*STATS*/
+.stats {
+
+}
+
+.stats-item {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.stats-item dt {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+}
+
+.stats-item img {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}
+
+/*.stats-item span*/
+.stats-item-title {
+  font-weight: bold;
+}
+
+.stats-item dd {
+  color: #555;
+}
