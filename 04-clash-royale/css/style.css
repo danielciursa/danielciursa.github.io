@@ -44,7 +44,7 @@ p {
 }
 
 .content_section {
-  margin: 40px auto 0;
+  margin: 40px auto;
   max-width: 325px;
   position: relative;
 }
