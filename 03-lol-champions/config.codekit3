@@ -9,6 +9,30 @@
 	],
 "creatorBuild": "25849",
 "files": {
+	"\/champions\/ahri.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/champions\/ahri.html",
+		"oF": 0
+		},
+	"\/champions\/annie.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/champions\/annie.html",
+		"oF": 0
+		},
+	"\/champions\/fiora.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/champions\/fiora.html",
+		"oF": 0
+		},
+	"\/champions\/jinx.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/champions\/jinx.html",
+		"oF": 0
+		},
 	"\/img\/large\/ahri.jpg": {
 		"ft": 16384,
 		"iS": 296482,
