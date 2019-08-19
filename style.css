@@ -1,0 +1,48 @@
+
+
+
+body {
+  border-top: 3px solid #2c5067;
+  background-color: #f2f6f7;
+  color: #1a1f2d;
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+.logo {
+  width: 208px;
+  height: 36px;
+  display: block;
+  margin: 28px auto 80px;
+}
+
+.intro {
+  font-size: 28px;
+  text-align: center;
+}
+
+.project-title {
+  font-style: italic;
+  margin-top: 64px;
+}
+
+
+.project-title a {
+  color: #1a1f2d;
+  text-decoration: none;
+  border-bottom: 1px solid grey;
+}
+
+.project-description {
+  font-size: 17px;
+  margin-bottom: 40px;
+
+}
+
+.button {
+  color: #fff;
+  background-color: #2c5067;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 16px 24px;
+}
