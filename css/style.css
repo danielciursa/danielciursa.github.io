@@ -1,0 +1,106 @@
+html {
+  border-top: 3px solid #2c5067;
+  background-color: #f2f7f4;
+  color: #1a1f2d;
+  font-family: sans-serif;
+  font-size: 18px;
+  width: 100%;
+}
+
+.wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 50px 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  margin-bottom: 0.75em; 
+}
+
+h1 { font-size: 32px; }
+h2 { font-size: 28px; }
+h3 { font-size: 24px; }
+h4 { font-size: 22px; }
+h5 { font-size: 20px; }
+h6 { font-size: 18px; }
+
+p {
+  line-height: 1.5em;
+}
+
+.logo {
+  width: 208px;
+  height: 36px;
+  display: block;
+  margin: 28px auto 80px;
+}
+
+.intro {
+  font-size: 28px;
+  text-align: center;
+  max-width: 880px;
+  margin: 0 auto 80px; 
+}
+
+.project {
+  margin: 0 0 160px;
+}
+
+@media (min-width:800px) {
+  .project {
+    display: flex;
+  }
+}
+
+.project-image {
+  width: 100%;
+  height: auto;
+  max-width: 860px;
+  margin-bottom: -80px;
+}
+
+.project-content {
+  flex: 1 0 400px;
+}
+
+.project-title {
+  font-style: italic;
+}
+
+.project-title a {
+  color: #1a1f2d;
+  text-decoration: none;
+  border-bottom: 1px solid grey;
+}
+
+.project-description {
+  margin-bottom: 32px;
+}
+
+.button {
+  color: #fff;
+  background-color: #2c5067;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 16px 24px;
+  display: inline-block;
+}
+
+footer {
+  background-color: #e6eef0;
+  padding: 80px 50px;
+  text-align: center; 
+}
+
+footer .email {
+  border-bottom: 1px solid grey;
+  text-decoration: none;
+  font-size: 30px;
+  color: #1a1f2d;
+}
+
+footer .copyright {
+  margin-top: 32px;
+  font-size: 19px;
+}
